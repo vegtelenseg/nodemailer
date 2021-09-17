@@ -26,4 +26,4 @@
 
 
 # Note
- The emails that you will test this with have to be verified in your AWS account. You can look at how to do that over [here](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/verify-email-addresses-procedure.html)
+ The email addresses that you will test this with have to be verified in your AWS account. You can look at how to do that over [here](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/verify-email-addresses-procedure.html)
