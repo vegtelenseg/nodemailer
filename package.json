@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "source .env && node nodemailer.js"
+  },
+  "dependencies": {
+    "aws-smtp-credentials": "^1.0.0",
+    "nodemailer": "^6.6.3",
+    "nodemailer-ses-transport": "^1.5.1"
+  }
+}
