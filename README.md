@@ -13,6 +13,9 @@
   AWS_ACCESS_KEY_ID=<YOUR OWN ID HERE FROM AWS>
   AWS_REGION=eu-west-2
  ```
+ ### Note
+ The AWS environment variable will have to match the region that you have chosen when you were configuring your AWS.
+ In my case, I used `eu-west-2` because it is the closest to South Africa
  
  ### Running the project
  
